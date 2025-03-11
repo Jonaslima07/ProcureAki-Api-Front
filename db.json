@@ -1,0 +1,23 @@
+{
+    "Lojas": [
+      {
+        "id": "",
+        "nome": "",
+        "CNPJ": "",
+        "horarioAbertura": "",
+        "horarioFechamento": "",
+        "telefone": "",
+        "email": "",
+        "senha": "",
+        "instagram": "",
+        "facebook": "",
+        "descricao": "",
+        "cep": "",
+        "nomeRua": "",
+        "cidade": "",
+        "estado": "",
+        "numero": ""
+      }
+    ]
+  }
+  
